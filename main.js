@@ -13,7 +13,7 @@ $(document).ready(function () {
         });
     });
 
-    $("a[action=link1]").click(function (e) {
+    $("a[action=link1]").on("click", function (e) {
         e.preventDefault();
         if (sidebar.css("left") === '0px') {
             $('.sidebar').animate({
