@@ -22,7 +22,7 @@
         <span class="close_sidebar"><i class="fas fa-times"></i></span>
         <div class="clearfix"></div>
         <ul>
-            <li><a href="#">home</a></li>
+            <li><a href="index.php">home</a></li>
             <li><a href="#" action="link1">p1</a></li>
             <li><a href="#" action="link2">p2</a></li>
             <li><a href="#" action="link3">p3</a></li>
