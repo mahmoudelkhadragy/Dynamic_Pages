@@ -23,6 +23,9 @@ h1 {
 
 .navbar ul li {
   cursor: pointer;
+}
+
+.bar_icon {
   padding: 5px;
 }
 
