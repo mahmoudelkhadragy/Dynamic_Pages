@@ -6,8 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <form>
-        <input type="button" value="Test">
-    </form>
+    <h1>P1</h1>
 </body>
 </html>
